@@ -11,37 +11,27 @@ class: center, middle
 
 ---
 
-## 本讲内容
+## 这是一个自我介绍
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1.基本情况</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+### 2. 个人经历
 
-### 2. 第二部分
-
-### 3. 第三部分
+### 3. 兴趣爱好
 
 ---
 
 ## 第一部分
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+王焱 男 
 
 ---
 
-## 插图
+## 照片
 
-** Ada Lovelace **
+** 这是一张照片 **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="https://github.com/yan2333/slidedemo/blob/master/2016-03-15%20205948.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
