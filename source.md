@@ -63,25 +63,13 @@ class: center, middle
 
 ### 2. 个人经历
 
-### <font color="orangered">3.兴趣爱好</font>3. 兴趣爱好
+### <font color="orangered">3.兴趣爱好</font>
 
 ---
 
 ## 兴趣爱好
 
-
-
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+### 沉迷学习不能自拔
 
 ---
 
