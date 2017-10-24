@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 王焱 (wangyan2333@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/yan2333
 
 ---
 
