@@ -33,7 +33,7 @@ class: center, middle
 
 ** 这是一张照片 **
 
-<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=206f7c1eacc27d1eb12b33967abcc60b/aa64034f78f0f7365b9382bb0255b319ebc4131f.jpg" width=300 style="margin: 0px 80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coventry_Scouts_groups_have_a_visit_from_Bear_Grylls.jpg/440px-Coventry_Scouts_groups_have_a_visit_from_Bear_Grylls.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
